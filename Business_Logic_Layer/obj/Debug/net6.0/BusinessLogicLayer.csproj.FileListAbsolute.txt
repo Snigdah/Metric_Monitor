@@ -1,0 +1,15 @@
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\bin\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\BusinessLogicLayer.dll
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+C:\Users\kmf.snigdah\Downloads\Assigment-20220929T134754Z-001-20221002T044917Z-001\Assigment-20220929T134754Z-001\Assigment\Business_Logic_Layer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
